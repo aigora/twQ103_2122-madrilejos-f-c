@@ -1,11 +1,11 @@
 # [Título del trabajo]
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Footle 4
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Diego Organero Gallego, Pablo Sanchez Oliveros, Alvaro Tornero Carames y Alejandro Rodriguez Sanchez
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+Ayuda a Luva Pedreiro ha conseguir el tesoro.
